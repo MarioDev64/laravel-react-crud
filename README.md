@@ -35,15 +35,10 @@ Instalación:
 
 9) Ejecutar <b>npm install</b> para las dependencias de node.js
 
-10 Ejecutar <b>php artisan serve</b> para visualizarlo en el navegador o puedes usar Laragon, xammp, etc.
+10) Ejecutar <b>php artisan serve</b> y luego <b>npm run dev</b> para visualizarlo en el navegador o puedes usar Laragon, xammp, etc.
 
 ## Tabla Cars
 - id 
 - make
 - model
 - color
-
-
-## Video de explicación
-
-Si quieres ver el video en donde se explica el ejercicio paso a paso  [te comparto el siguiente enlace](https://youtu.be/bxX15LL_zE4)
